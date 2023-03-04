@@ -1,0 +1,62 @@
+.loginN{
+    
+    padding-top: 4px;
+    
+    color: navy;
+    font-weight: 900;
+    text-align: left;
+    font-size:xx-large;
+    
+}
+.loginbox-content{
+    padding-left: 50px;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+.input{
+    border-radius: 10px;
+}
+.s {
+    height: 45px;
+    width: 35rem;
+    background-color: rgb(7, 7, 73);
+    border-radius: 10px;
+    border-color: rgb(7, 7, 73);
+    font-size:22px;
+    margin-top: 30px;
+    font-weight: bolder;
+    
+}
+
+.l {
+    
+    height: 45px;
+    width: 35rem;
+    background-color: rgb(7, 7, 73);
+    border-radius: 10px;
+    border-color: rgb(7, 7, 73);
+    margin-top: 41px;
+    font-size:22px;
+    font-weight: bolder;
+}
+
+
+/*.student{
+    margin-top: 5%;
+    border-radius: 10px;*/
+    /*margin-left: 40%;*/
+    /*background-color: blue;
+    width: 34rem;
+    height: 3rem;
+    text-align: center;
+
+
+}*/
+

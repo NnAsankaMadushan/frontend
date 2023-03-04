@@ -1,0 +1,32 @@
+.title-top{
+    
+    
+    background-color:#009fe5;
+    padding-top:3px;
+    padding-bottom: 0.1px;
+    height: 140px;
+    width:100%;
+    
+    
+    
+    position:relative;
+    bottom:0;
+    width:100%;
+}
+
+.title{
+    text-align:center ;
+    letter-spacing: 14px;
+    font-size: 45px;
+    align-items: center;
+    justify-content: center;
+    padding-right: 8px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.uniLogo{
+    height: 120px;
+}

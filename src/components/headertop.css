@@ -1,0 +1,25 @@
+.header-top{
+    
+    
+    background-color:#0073a5;
+    padding-top:3px;
+    padding-bottom: 0.1px;
+    
+    height: 34px;
+    
+    position:relative;
+    bottom:0;
+    width:100%;
+}
+
+.notloggin{
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+    padding-right: 8px;
+    color: white;
+}
+
+
+
+
